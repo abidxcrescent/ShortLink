@@ -1,8 +1,7 @@
-package org.example;
+package org.myshortlink;
 
 
-import org.example.Service.ShortURLService;
-import org.springframework.beans.factory.annotation.Qualifier;
+import org.myshortlink.Service.ShortURLService;
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 import org.springframework.context.annotation.Bean;

@@ -1,4 +1,4 @@
-package org.example.Service;
+package org.myshortlink.Service;
 
 
 import java.util.HashMap;

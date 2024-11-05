@@ -1,7 +1,7 @@
-package org.example.Controller;
+package org.myshortlink.Controller;
 
 import jakarta.servlet.http.HttpServletRequest;
-import org.example.Service.ShortURLService;
+import org.myshortlink.Service.ShortURLService;
 import org.springframework.web.bind.annotation.*;
 
 @RestController

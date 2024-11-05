@@ -1,7 +1,7 @@
-package org.example;
+package org.myshortlink;
 
 
-import org.example.Service.ShortURLService;
+import org.myshortlink.Service.ShortURLService;
 
 import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.Test;
